@@ -1,1 +1,1 @@
-# pacman
+# game ban may bay
